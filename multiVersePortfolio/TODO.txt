@@ -1,0 +1,11 @@
+What I have done:
+--> i've set up hosting for each of the three html pages that i'll need, and i've set up routes for endpoints on each of the pages.
+--> I've set up boilerplate code for each page, and labeled what each one is for.
+
+
+What I have left to do:
+-->I need to really come up with a solid design, understand some funtionalities that i'd like to add to the site, but also create a decent wireframe in figma for the first time.
+
+--> I'll have to create wireframe/learn figma , learn some css, learn some some bootsrap, and likely catch up a bit on coding rooms in order to learn the css principles that I'll need, but I think I can create a decent looking site without too much assistance. 
+
+--> Let's see if I cna do some extension work, and create a data-driven, interactive portion of the site.
